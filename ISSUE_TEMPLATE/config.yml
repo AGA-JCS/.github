@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Bug Report
+    url: https://github.com/AGA-JCS/.github/issues/new?template=informe_de_error.md
+    about: Use this template to report bugs and defects.
+  - name: Feature Request
+    url: https://github.com/AGA-JCS/.github/issues/new?template=feature_request.md
+    about: Use this template to suggest new features.
