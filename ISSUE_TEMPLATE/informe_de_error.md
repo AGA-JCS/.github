@@ -1,3 +1,10 @@
+---
+name: Reporte de eroores
+about: Formulario para reportar errores y defectos
+title: "[Bug] "
+labels: bug
+assignees: ''
+---
 # Informe de Error
 
 **Descripción del problema:**

@@ -1,3 +1,11 @@
+---
+name: Solicitud de nueva función
+about: Formulario para solicitar una nueva función o mejora en el sistema
+title: "[Feature] "
+labels: enhancement
+assignees: ''
+---
+
 **Solicitud de nueva función**
 
 **Descripción de la función solicitada:**
