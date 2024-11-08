@@ -1,9 +1,10 @@
 ---
-name: Solicitud de nueva función
-about: Formulario para solicitar una nueva función o mejora en el sistema
-title: "[Feature] "
-labels: enhancement
+name: Feature request
+about: Suggest an idea for this project
+title: ''
+labels: ''
 assignees: ''
+
 ---
 
 **Solicitud de nueva función**
